@@ -38,7 +38,7 @@ export default function NewsletterSignup() {
           <p className="text-signal-red text-xs font-bold uppercase tracking-widest mb-4">newsletter</p>
           <h2
             id="newsletter-heading"
-            className="font-display text-4xl md:text-6xl font-extrabold tracking-tight leading-tight mb-4 uppercase"
+            className="font-display text-4xl md:text-6xl font-bold tracking-tight leading-tight mb-4 uppercase"
           >
             stay connected
           </h2>

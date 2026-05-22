@@ -30,7 +30,7 @@ export default function VenueIntro() {
           <p className="text-muted-text text-xs uppercase tracking-widest mb-3">the venue</p>
           <h2
             id="venue-heading"
-            className="font-display text-4xl md:text-5xl font-extrabold tracking-tight leading-tight mb-4 uppercase"
+            className="font-display text-4xl md:text-5xl font-bold tracking-tight leading-tight mb-4 uppercase"
           >
             Our Stage. Your Community.
           </h2>

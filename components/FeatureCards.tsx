@@ -40,7 +40,7 @@ export default function FeatureCards() {
           <p className="text-muted-text text-xs uppercase tracking-widest mb-2">explore cpac</p>
           <h2
             id="features-heading"
-            className="font-display text-4xl md:text-5xl font-extrabold tracking-tight leading-none uppercase"
+            className="font-display text-4xl md:text-5xl font-bold tracking-tight leading-none uppercase"
           >
             The Space. The Programs.
           </h2>
@@ -68,7 +68,7 @@ export default function FeatureCards() {
 
               {/* Body */}
               <div className="flex flex-col flex-1 p-7 border-t border-soft-gray">
-                <h3 className="font-display text-perf-black text-2xl font-extrabold tracking-tight leading-tight mb-3 uppercase">
+                <h3 className="font-display text-perf-black text-2xl font-bold tracking-tight leading-tight mb-3 uppercase">
                   {card.title}
                 </h3>
                 <p className="text-perf-black/60 text-[15px] leading-relaxed mb-5 flex-1">

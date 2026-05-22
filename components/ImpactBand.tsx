@@ -44,7 +44,7 @@ export default function ImpactBand() {
             <motion.h2
               id="impact-heading"
               variants={{ hidden: { opacity: 0, y: 16 }, show: { opacity: 1, y: 0, transition: { duration: 0.5 } } }}
-              className="font-display text-4xl md:text-5xl font-extrabold tracking-tight leading-tight mb-5 uppercase"
+              className="font-display text-4xl md:text-5xl font-bold tracking-tight leading-tight mb-5 uppercase"
             >
               make an impact
             </motion.h2>

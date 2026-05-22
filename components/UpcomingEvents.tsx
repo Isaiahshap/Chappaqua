@@ -11,7 +11,7 @@ export default function UpcomingEvents() {
             <p className="text-muted-text text-xs uppercase tracking-widest mb-2">what&apos;s on</p>
             <h2
               id="events-heading"
-              className="font-display text-5xl md:text-6xl font-extrabold tracking-tight leading-none uppercase"
+              className="font-display text-5xl md:text-6xl font-bold tracking-tight leading-none uppercase"
             >
               coming soon
             </h2>

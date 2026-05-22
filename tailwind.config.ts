@@ -22,7 +22,7 @@ const config: Config = {
       },
       fontFamily: {
         sans: ["var(--font-sans)", "Helvetica Neue", "Arial", "system-ui", "sans-serif"],
-        display: ["var(--font-display)", "Bebas Neue", "Arial Black", "Helvetica Neue", "sans-serif"],
+        display: ["var(--font-display)", "Open Sans", "Helvetica Neue", "Arial", "sans-serif"],
       },
     },
   },
